@@ -2,7 +2,8 @@
 ## JAVA PERSONALITY QUIZ GAME
 By Faizan Dhankwala
 
-![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/47f42e0c-3ee2-478c-b56b-114b8d867408)
+![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/ea52c3e8-8144-43c8-ac4e-7bd4b45efe31)
+
 
 
 Welcome to the Java GUI Personality Quiz Game! This project is a Java-based application that allows users to take a personality quiz through a graphical user interface (GUI). The quiz determines the user's personality type based on their responses to a series of questions. Each personality type is associated with a unique description, image, and background music.
@@ -56,11 +57,13 @@ After completing all questions, the application will reveal your personality typ
 Enjoy exploring different personality types and learning about yourself!
 
 ## Screenshots
-![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/80630f44-0925-4ae2-8127-457da486a3c1)
+![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/e35c182a-7491-4661-9ff9-ca62671de324)
+
 
 -Caption: Example of the GUI interface displaying a question.
 
-![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/5995e141-fa32-4507-a2cf-9ac68c80986e)
+![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/4827ba50-5add-4d98-89bc-d208c0dec2e4)
+
 
 -Caption: End screen displaying the user's personality type and corresponding details.
 
@@ -75,19 +78,20 @@ Questions and multiple-choice options are managed using data structures like Arr
 The application includes six predefined personality types, each characterized by a distinct set of traits and attributes.
 
 -Here are all the typees:
-1. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/a9f7ad76-3dbc-47eb-9d4d-de4efdb3f59f)
-2. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/8e101c82-30fb-4bec-8bd7-284c8af2e434)
-3. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/c88d3856-1095-476d-a868-f27d4fcc5fd2)
-4. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/a31877b2-36df-488e-b00f-027b43a86d51)
-5. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/3c3a5664-5222-48f6-bd6a-15ecd00aac56)
-6. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/1fcb18b6-c445-4d8a-8486-4b13527f38eb)
+1. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/db8af429-a1af-45d2-b9d7-c0f7324f50af)
+2. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/ea52c3e8-8144-43c8-ac4e-7bd4b45efe31)
+3. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/7a57b704-524f-40d8-a9c5-566167985da3)
+4. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/c29ee6ef-143a-4973-9563-c3ebb4e93cf6)
+5. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/4827ba50-5add-4d98-89bc-d208c0dec2e4)
+6. ![image](https://github.com/FaizanDhankwala/PersonalityQuizGame/assets/55712375/fc71ef98-e716-4d91-bdf0-a1ea17dcb88e)
+
 
 ## Each personality type is associated with:
 -A descriptive text explaining the characteristics of that personality type.
 -An image (*.jpg format) representing the personality type visually.
 -Background music (*.wav format) that plays when the personality type is revealed at the end of the quiz.
 -Media Integration
--Images for personality types are stored in the images folder within the project directory. The application dynamically loads and displays the appropriate image based on the user's personality type selection. Similarly, background music files are stored in the music folder and are played using Java's javax.sound.sampled API.
+-Images for personality types are stored within the project directory. The application dynamically loads and displays the appropriate image based on the user's personality type selection. Background music are played using Java's javax.sound.sampled API.
 
 ## Contributing
 Contributions to this project are welcome! If you encounter any issues, have ideas for improvements, or wish to add new features, please feel free to:
