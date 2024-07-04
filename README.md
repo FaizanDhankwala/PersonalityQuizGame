@@ -46,9 +46,11 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
 
-2.Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
 3. Compile and run the QuizGame.java file to start the application.
+
+   (Its better to run in an IDE such as VScode)
 
 ## Usage
 Launch the application to start the personality quiz.
